@@ -1,0 +1,6 @@
+@AsciifyText_HostAddress = http://localhost:5187
+
+GET {{AsciifyText_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
