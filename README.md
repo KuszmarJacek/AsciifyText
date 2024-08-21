@@ -12,5 +12,5 @@ for example: ```localhost:5178/{text}?{font}```
 To get all possible fonts, go to: ```localhost:5187/``` 
 
 ## TODO
--[ ] Add pagination to font list
--[ ] Add sorting to font list
+- [ ] Add pagination to font list
+- [ ] Add sorting to font list
